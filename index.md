@@ -5,4 +5,24 @@ permalink: /
 ---
 
 # Pesto Academy
-![pa logo](pa_logo2.png)
+<img style="float: right;" src="assets/logo/pa_logo2.png">
+## Vision
+some text
+
+## Strategic Plan
++ one
++ two
++ three
+
+## Core Values
+our values
+
+## Mission
+our mission
+
+## News
+some news
+
+## People
+our people
+
